@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="corpus.ez-it-solutions.com">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/corpus.ez-it-solutions.com.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
